@@ -1,0 +1,35 @@
+
+
+.container {
+    margin-top: 5px;
+    padding: 0;
+    position: fixed;
+    /* background-color: rgb(228, 228, 214); */
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+    margin-left: 5px;
+}
+
+.container li {
+    display: flex
+}
+
+.container ul {
+    margin-top: 8px;
+}
+
+
+.dropright_menu {
+    width: 200px;
+}
+
+.input_text {
+    width: 300px;
+    padding: 0;
+}
+
+.btnDropImages {
+    margin-top: 5px;
+}
+

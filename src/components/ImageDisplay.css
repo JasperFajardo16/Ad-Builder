@@ -1,0 +1,13 @@
+.image {
+    height: 500px;
+    width: 700px;
+    position: fixed;
+    margin-left: 30%;
+    margin-top: 10px;
+}
+
+.input_text {
+    width: 30%;
+    margin: 10% 40%;
+    position: fixed;
+}

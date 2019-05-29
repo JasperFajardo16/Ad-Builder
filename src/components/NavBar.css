@@ -1,0 +1,18 @@
+.Navbar {
+    background-color: rgb(228, 228, 214);
+}
+
+.choose_template {
+    position: fixed;
+    position: relative;
+}
+
+.dropdown_menu {
+    /* width: 280px; */
+    width: auto;
+    height: auto;
+}
+
+.dropdown_toggle {
+    margin-left: 10px;
+}
